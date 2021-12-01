@@ -11,9 +11,9 @@ The project as the name suggests is based on Ultrasonic sensors.Ultrasonic senso
 
 The requirements for the program to run or for the code to be in effect are basic and  a great solution for the detection of clear objects.
 
-# Features,Hardware and Software:-
 
-![App Screenshot] (C:\Users\patil\OneDrive\Documents\ANKITA PATIL\LLTS)
+# heardware and software:-
+
 
 ## a) HARDWARE :-
 #### 1] SimulIDE:
